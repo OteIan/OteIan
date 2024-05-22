@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://twitter.com/binare_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binare_code" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ote." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ote." height="30" width="40" /></a>
-<a href="https://fb.com/ian ote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ian ote" height="30" width="40" /></a>
 <a href="https://instagram.com/_o.te_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_o.te_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/binarecode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="binarecode" height="30" width="40" /></a>
 </p>
@@ -20,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oteian&show_icons=true&locale=en&layout=compact" alt="oteian" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oteian&show_icons=true&locale=en" alt="oteian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oteian&" alt="oteian" /></p>
