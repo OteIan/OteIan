@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ian Ote</h1>
+<h1 align="center">Hi 👋, I'm Ian Omware</h1>
 <h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
-- 🔭 I’m currently working on a CV generator [ResumeRocket](https://github.com/habibaadam/ResumeRocket)
+- 🔭 I’m currently working on a Mars Rover for the [Cars4Mars African Rover Challenge](https://cars4mars.co.za/)
 
 - 📫 How to reach me **oteian9@gmail.com**
 
