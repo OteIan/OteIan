@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Omware</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="center">A full-stack software developer from Nairobi, Kenya</h3>
 
 - 🔭 I’m currently working on a Mars Rover for the [Cars4Mars African Rover Challenge](https://cars4mars.co.za/)
 
